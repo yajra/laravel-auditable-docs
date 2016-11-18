@@ -20,15 +20,15 @@ At the moment the package is not unit tested, but is planned to be covered later
 
 [ico-version]: https://img.shields.io/packagist/v/yajra/laravel-auditable.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/yajra/laravel-auditable/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/yajra/{{package}}/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/yajra/laravel-auditable.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/yajra/laravel-auditable.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/yajra/laravel-auditable.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/yajra/laravel-auditable
 [link-travis]: https://travis-ci.org/yajra/laravel-auditable
-[link-scrutinizer]: https://scrutinizer-ci.com/g/yajra/laravel-auditable/code-structure
+[link-scrutinizer]: https://scrutinizer-ci.com/g/yajra/{{package}}/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/yajra/laravel-auditable
 [link-downloads]: https://packagist.org/packages/yajra/laravel-auditable
 [link-author]: https://github.com/yajra
-[link-contributors]: https://github.com/yajra/laravel-auditable/graphs/contributors
+[link-contributors]: https://github.com/yajra/{{package}}/graphs/contributors
