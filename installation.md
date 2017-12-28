@@ -4,6 +4,6 @@ Laravel Auditable can be installed with [Composer](http://getcomposer.org/doc/00
 
 Run the following command in your project to get the latest version of the package:
 
-```
-composer require yajra/laravel-auditable:^1.0
+```bash
+composer require yajra/laravel-auditable:^2.0
 ```

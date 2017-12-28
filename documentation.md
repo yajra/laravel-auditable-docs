@@ -13,3 +13,6 @@
     - [Creator](/docs/{{package}}/{{version}}/auditable-trait#creator)
     - [Updater](/docs/{{package}}/{{version}}/auditable-trait#updater)
     - [Owned Scope](/docs/{{package}}/{{version}}/auditable-trait#owned)
+
+- Schema
+    - [Auditable Blueprint](/docs/{{package}}/{{version}}/blueprint)
