@@ -1,18 +1,18 @@
-- Prologue
+- ## Prologue
     - [Contribution Guide](/docs/{{package}}/{{version}}/contributing)
     - [Security Issues](/docs/{{package}}/{{version}}/security)
 
-- Getting Started
+- ## Getting Started
     - [Introduction](/docs/{{package}}/{{version}}/introduction)
     - [Installation](/docs/{{package}}/{{version}}/installation)
 
-- Usage
+- ## Usage
     - [AuditableTrait](/docs/{{package}}/{{version}}/usage)
 
-- Auditable Trait
+- ## Auditable Trait
     - [Creator](/docs/{{package}}/{{version}}/auditable-trait#creator)
     - [Updater](/docs/{{package}}/{{version}}/auditable-trait#updater)
     - [Owned Scope](/docs/{{package}}/{{version}}/auditable-trait#owned)
 
-- Schema
+- ## Schema
     - [Auditable Blueprint](/docs/{{package}}/{{version}}/blueprint)
