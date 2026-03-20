@@ -1,18 +1,17 @@
 - ## Prologue
-    - [Contribution Guide](/docs/{{package}}/{{version}}/contributing)
-    - [Security Issues](/docs/{{package}}/{{version}}/security)
+    - [Contributing](contributing)
+    - [Security](security)
 
 - ## Getting Started
-    - [Introduction](/docs/{{package}}/{{version}}/introduction)
-    - [Installation](/docs/{{package}}/{{version}}/installation)
-
-- ## Usage
-    - [AuditableTrait](/docs/{{package}}/{{version}}/usage)
+    - [Introduction](introduction)
+    - [Installation](installation)
+    - [Usage](usage)
+    - [Troubleshooting](troubleshooting)
 
 - ## Auditable Trait
-    - [Creator](/docs/{{package}}/{{version}}/auditable-trait#creator)
-    - [Updater](/docs/{{package}}/{{version}}/auditable-trait#updater)
-    - [Owned Scope](/docs/{{package}}/{{version}}/auditable-trait#owned)
+    - [Auditable Trait API](auditable-trait)
+    - [Soft Deletes](soft-deletes)
+    - [Configuration](configuration)
 
 - ## Schema
-    - [Auditable Blueprint](/docs/{{package}}/{{version}}/blueprint)
+    - [Auditable Blueprint](blueprint)
